@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    margin-top: 2rem;
+}
+
+#resultFibo{
+    height: 2rem;
+}
+
+#resultProcurarA{
+    height: 1rem;
+}
+
+input{
+    border-radius: .5rem;
+    border: 1px solid #000000;
+    padding: .3rem;
+}
+
+button{
+    border-radius: .5rem;
+    border: 1px solid #000000;
+    padding: .3rem 1rem;
+}
+
+.resultLogica{
+    font-weight: bold;
+}
